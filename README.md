@@ -1,2 +1,2 @@
 # IP-Scanner
-IP and open ports scanner to find out someone's IP address and check their BASH files.
+IP and open ports scanner to find out someone's IP address and check their HASH files.
